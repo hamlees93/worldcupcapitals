@@ -1,0 +1,56 @@
+body {
+  position: relative; 
+  background-color: #5CDB95;
+}
+
+h1 {
+  font-family: "Andale Mono", "monospace";
+  text-align: center;
+  size: 450%;
+  font-weight: bold;
+}
+
+input {
+  font-family: "chalkduster";
+}
+
+.row-fluid {
+  padding-top: 20px;
+}
+
+.table {
+  background-color: #66b3ff;
+  border-collapse: collapse;
+  border: 0;
+  text-align: center;
+  width:60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.no-border {
+  border:0;
+  box-shadow: none;
+}
+
+h4 {
+  font-family: "chalkduster","fantasy";
+}
+
+.btn-primary {
+  margin-top: 20px;
+  text-align: center;
+  background-color: red;
+}
+
+.buttonHolder {
+	text-align: center;
+}
+
+footer {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: #D3D3D3;
+}

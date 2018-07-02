@@ -36,5 +36,3 @@ def results():
   	incorrect_integer=incorrect_integer
   	)
 
-if __name__ == '__main__':
-    app.run(host='127.0.0.1',port=5500,debug=True)
